@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 <section>
@@ -86,6 +87,7 @@
       {% include youtube.html id='wzTHyhEwmGs' %}
     </div>
     <br>
+
   </div>
 </section>
 
@@ -105,7 +107,7 @@
 
       <p>Like all hidden histories, these stories represent living knowledge that can inform future generations and can help us think differently about the experiences of children from interracial relationships.</p>
     </blockquote>
-    <cite>Edited review by Kate Pahl<br> MMU Professor of Arts and Literacy</cite>
+    <cite>Edited review by Kate Pahl<br>MMU Professor of Arts and Literacy</cite>
     <br><br>
     {% include book.html %}
 
@@ -121,7 +123,7 @@
     <p class="x-narrow">
       <strong>Hard copies can only be collected in person from:</strong><br>
       <br>
-      Ahmed Iqbal Ullah Race Relations Resource Centre <br>
+      Ahmed Iqbal Ullah Race Relations Resource Centre<br>
       Lower Ground Floor<br>
       Central Library<br>
       St Peter’s Square<br>
@@ -130,10 +132,12 @@
       <br>
       By post email <a href="mailto:contact@ourmothers.org">contact@ourmothers.org</a>
     </p>
+
   </div>
 </section>
 
 <br><br><br>
+
 <hr>
 
 <section id="about">
@@ -160,8 +164,6 @@
     <p class="btn">
       <a href="https://forms.gle/Un3S4B9L7zf6Rq4X7">Feedback form</a>
     </p>
-
-
 
   </div>
 </section>
