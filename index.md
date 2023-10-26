@@ -20,7 +20,7 @@ layout: default
   </div>
 
   <div class="content">
-    <p class="h2 narrow">Strength of our Mothers documents the lives of 23 white women in interracial relationships with African and Afro-Caribbean men from the 1940s to 2000. Each women's story is told in their own voice or by their children.</p>
+    <p class="h2 narrow">Afro Solo UK is the result of 2 years research of the African diaspora of Greater Manchester. Each life story is an act of remembrance, a celebration and in some cases a reconciliation. They provide a legacy and are a declaration that this community will never again be overlooked.</p>
     <p class="btn">
       <a href="#about">Learn more about the project</a>
     </p>
@@ -145,15 +145,38 @@ layout: default
     <br>
     <h1 class="h2">Background on the project</h1>
 
-    <p class="narrow">SOM does not fictionalise life but tells it just as we live it. Sometimes it is cruel and heart-breaking but even then, families pull on through. In many cases hardship and heartache makes the bond of family stronger, especially when Mothers stepped away from the relationship into single parenthood. Fathers too became the sole carer of their children when mothers left because they couldn’t or didn’t want to stay in the home.</p>
+    <p class="narrow">A total of 78 people were initially approached. Resulting in 39 published life story chapters.</p>
 
-    <p class="narrow">Strength of Our Mothers a 2017-2019 partnership project led by National Black Arts Alliance, supported by the Heritage Lottery Fund.</p>
+    <p class="narrow">They gave their family histories, photographs, their own life stories to help create this important and unique archive.</p>
 
-    <p class="narrow">NBAA is the UK’s largest network of Black artists established in 1985 it exists to combat negative attitudes to Black arts and culture. Its heritage work in social history contributes to debates around migration, interracial marriage, and class to challenge racist narratives.</p>
+    <p class="narrow">A cultural and community history based around the lives of Africans in Greater Manchester from the 1920s to the 1960s...</p>
 
-    <p class="btn">
-      <a href="#women">Back to the women</a>
+    <p class="narrow">Afro Solo UK might never have happened had Leslie Johnson not donated a collection of photographs to AIURR. The collection included family snaps, studio portraits and street photographs of the family and friends of Leslie’s parents, Jide and Renee Johnson. What made them special was that they were a visual record of Africans in Manchester in the 1940s. A community that had fallen beneath public awareness as increasingly the “Windrush” has become the timeline for Black communities in the UK.</p>
+
+    <p class="narrow">AIURRRC set the photographs as an exhibition showing it in local libraries and sharing it with African community groups. The photos generated huge interest, stirring up memories and re-capturing the names of numerous people featured.</p>
+
+    <p class="narrow">Leslie was delighted with this response: “It is great to know that some of my old family photos created so much interest, and memories for others to enjoy. I am sure my parents are looking down on me amazed that their pictures, from the bottom drawer of the sideboard could ever have been of interest to anybody else! It feels right to give these memories back, so that the Now and Future may understand.”</p>
+
+    <p class="narrow">Leslie’s photographs form the foundations of the Afro Solo UK research of images and memories of the oft-forgotten African community in Manchester.</p>
+
+    <p class="narrow">ASUK is dedicated to West African Jide (Jimmy) and his Mancunian wife Renee who married in 1947 and raised their family in Hulme, Moss Side and Wythenshawe before they both passed away in 1981</p>
+
+    <p class="narrow">Jackie Ould, AIURR.</p>
+
+!TODO choose an image for here
+
+    <p class="narrow">
+      Afro Solo UK Steering Group
+      Dr Hakim Adi, BA Hons., PhD
+      Dinesh Allirajah, Chair of Trustees NBAA
+      Burjor Avari MMU Honorary Research Fellow
+      Jackie Ould, AIURRRC
+      Paul Okojie MMU, Senior Lecturer in Law
+      Rebecca Asgill, Community Activist
     </p>
+    <p class="btn">
+        <a href="#women">Back to the women</a>
+      </p>
 
     <br>
 
