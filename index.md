@@ -6,7 +6,7 @@ layout: default
   <div class="hero__wrapper">
     <div class="hero">
       <div class="content">
-        <h1 class="hero__title narrow">In order to reach the truth, you have got to tell the truth.</h1>
+        <!-- <h1 class="hero__title narrow">do we need a headline?</h1> -->
       </div>
     </div>
   </div>
@@ -14,7 +14,7 @@ layout: default
   <div class="hero__caption">
     <div class="content">
       <div class="hero__caption-text">
-        <strong>Photo:</strong> Mrs Ada next to her husband Alfred Lawrence (Anya) in his circus outfit in the 1930s.<br> Courtesy of their daughter Coca Clarke.
+        NBAA led the research via individual life stories and family members' memories of African women and men in Greater Manchester 1920s - 1950s. Utilising where appropriate newspaper articles and recognised search references.
       </div>
     </div>
   </div>
