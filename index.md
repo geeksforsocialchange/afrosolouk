@@ -111,28 +111,6 @@ layout: default
     <br><br>
     {% include book.html %}
 
-    <p class="h2 no-bottom-margin">Strength of Our Mothers</p>
-    <p class="center"><strong>ISBN</strong> 978-1-78972-129-4</p>
-
-    <p class="btn">
-      <a href="/assets/strength-of-our-mothers.pdf">Download the PDF</a>
-    </p>
-
-    <br>
-
-    <p class="x-narrow">
-      <strong>Hard copies can only be collected in person from:</strong><br>
-      <br>
-      Ahmed Iqbal Ullah Race Relations Resource Centre<br>
-      Lower Ground Floor<br>
-      Central Library<br>
-      St Peter’s Square<br>
-      Manchester<br>
-      M2 5PD<br>
-      <br>
-      By post email <a href="mailto:contact@ourmothers.org">contact@ourmothers.org</a>
-    </p>
-
   </div>
 </section>
 
