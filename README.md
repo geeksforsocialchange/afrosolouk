@@ -15,3 +15,12 @@ bundle
 ```
 bundle exec jekyll serve --livereload
 ```
+
+## Deployment
+
+Hosted on GFSC Cloudflare pages account.
+
+Uses [Cloudflare pages app](https://github.com/apps/cloudflare-pages) to build and deploy.
+
+- Generates a preview on creation of each Pull Request
+- Releases to [production](https://afrosolouk.pages.dev) on push to `main` branch.
