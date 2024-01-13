@@ -18,6 +18,9 @@ bundle exec jekyll serve --livereload
 
 ## Deployment
 
-Uses github actions to build and deploy on push to `main` branch.
+Hosted on GFSC Cloudflare pages account.
 
-[Build & deploy configuration](./.github/workflows/jekyll.yml)
+Uses [Cloudflare pages app](https://github.com/apps/cloudflare-pages) to build and deploy.
+
+- Generates a preview on creation of each Pull Request
+- Releases to [production](https://afrosolouk.pages.dev) on push to `main` branch.
