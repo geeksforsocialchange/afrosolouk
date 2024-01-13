@@ -15,3 +15,9 @@ bundle
 ```
 bundle exec jekyll serve --livereload
 ```
+
+## Deployment
+
+Uses github actions to build and deploy on push to `main` branch.
+
+[Build & deploy configuration](./.github/workflows/jekyll.yml)
