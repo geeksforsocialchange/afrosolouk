@@ -97,7 +97,6 @@ layout: default
       <h1>The book</h1>
     </div>
   </div>
-
   <div class="content">
       <p>TODO: choose blockquote</p>
     <br>
@@ -109,31 +108,12 @@ layout: default
     <cite>Edited review by Kate Pahl<br>MMU Professor of Arts and Literacy</cite>
     <br><br>
     {% include book.html %}
-
-    <p class="h2 no-bottom-margin">Afro Solo UK </p>
-    <p class="center"><strong>ISBN</strong> TODO: is there an isbn?</p>
-
+    <br>
     <p class="btn">
-    <!-- todo: add pdf -->
       <a href="/assets/ASUK.pdf">Download the PDF</a>
     </p>
 
     <br>
-    <!-- todo: are there hard copies? -->
-
-    <p class="x-narrow">
-      <strong>Hard copies can only be collected in person from:</strong><br>
-      <br>
-      Ahmed Iqbal Ullah Race Relations Resource Centre<br>
-      Lower Ground Floor<br>
-      Central Library<br>
-      St Peter’s Square<br>
-      Manchester<br>
-      M2 5PD<br>
-      <br>
-      By post email <a href="mailto:contact@ourmothers.org">contact@ourmothers.org</a>
-    </p>
-
   </div>
 </section>
 
