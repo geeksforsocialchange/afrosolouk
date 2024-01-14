@@ -99,26 +99,27 @@ layout: default
   </div>
 
   <div class="content">
+      <p>TODO: choose blockquote</p>
     <br>
     <blockquote class="x-narrow">
       <p>This collection of stories is about love.</p>
-
       <p>It is also about hidden lives, sometimes painful, sometimes heart-breaking, always important. The oral histories of relationships across the divides of race and celebrates the ways in which women sustain and support their families over time.</p>
-
       <p>Like all hidden histories, these stories represent living knowledge that can inform future generations and can help us think differently about the experiences of children from interracial relationships.</p>
     </blockquote>
     <cite>Edited review by Kate Pahl<br>MMU Professor of Arts and Literacy</cite>
     <br><br>
     {% include book.html %}
 
-    <p class="h2 no-bottom-margin">Strength of Our Mothers</p>
-    <p class="center"><strong>ISBN</strong> 978-1-78972-129-4</p>
+    <p class="h2 no-bottom-margin">Afro Solo UK </p>
+    <p class="center"><strong>ISBN</strong> TODO: is there an isbn?</p>
 
     <p class="btn">
-      <a href="/assets/strength-of-our-mothers.pdf">Download the PDF</a>
+    <!-- todo: add pdf -->
+      <a href="/assets/ASUK.pdf">Download the PDF</a>
     </p>
 
     <br>
+    <!-- todo: are there hard copies? -->
 
     <p class="x-narrow">
       <strong>Hard copies can only be collected in person from:</strong><br>
