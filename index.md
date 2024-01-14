@@ -30,16 +30,16 @@ layout: default
 
 <hr>
 
-<section id="women">
+<section id="participants">
   <div class="content">
     <br>
-    <ul class="women reset">
-      {% for woman in site.data.women %}
-        <li class="woman">
-          <h3 class="woman__name">{{ woman.name }}</h3>
-          <div class="woman__dob">{{ woman.dob }}</div>
-          <img src="/assets/women/{{ woman.photo }}" class="woman__photo" alt="A photo of {{ woman.name }}">
-          <div class="woman__caption">{{ woman.caption }}</div>
+    <ul class="participants reset">
+      {% for participant in site.data.participants %}
+        <li class="participant">
+          <h3 class="participant__name">{{ participant.name }}</h3>
+          <div class="participant__dob">{{ participant.dob }}</div>
+          <img src="/assets/participants/{{ participant.photo }}" class="participant__photo" alt="A photo of {{ participant.name }}">
+          <div class="participant__caption">{{ participant.caption }}</div>
         </li>
       {% endfor %}
     </ul>
@@ -175,7 +175,7 @@ layout: default
       Rebecca Asgill, Community Activist
     </p>
     <p class="btn">
-        <a href="#women">Back to the women</a>
+        <a href="#participants">Back to participants</a>
       </p>
 
     <br>
