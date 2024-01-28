@@ -6,7 +6,6 @@ layout: default
   <div class="hero__wrapper">
     <div class="hero">
       <div class="content">
-        <!-- <h1 class="hero__title narrow">do we need a headline?</h1> -->
       </div>
     </div>
   </div>
@@ -98,22 +97,22 @@ layout: default
     </div>
   </div>
   <div class="content">
-      <p>TODO: choose blockquote</p>
     <br>
     <blockquote class="x-narrow">
-      <p>This collection of stories is about love.</p>
+      <p>Afro Solo UK should be essential reading for anyone interested in the African Diaspora or post-war migration to the UK.</p>
+      <p>Many stories narrate the frustration of fractured family histories, but there is also huge pride, nostalgia, curiosity and wonderment.</p> 
+      <p>Despite uneasy memories of prejudice and suspicion, there is a prevailing sense of gratitude to those early pioneers; a realisation that what connects us is love, the tenderness and solidarity of human concern.</p>
       <p>It is also about hidden lives, sometimes painful, sometimes heart-breaking, always important. The oral histories of relationships across the divides of race and celebrates the ways in which women sustain and support their families over time.</p>
       <p>Like all hidden histories, these stories represent living knowledge that can inform future generations and can help us think differently about the experiences of children from interracial relationships.</p>
     </blockquote>
-    <cite>Edited review by Kate Pahl<br>MMU Professor of Arts and Literacy</cite>
-    <br><br>
+    <cite>Review by Professor Graham Mort<br>Centre for Transcultural Writing and Research, Lancaster University, UK</cite>
+    <br>
+    <br>
     {% include book.html %}
     <br>
     <p class="btn">
       <a href="/assets/ASUK.pdf">Download the PDF</a>
     </p>
-
-    <br>
   </div>
 </section>
 
