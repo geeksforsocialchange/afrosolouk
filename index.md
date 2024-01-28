@@ -49,8 +49,8 @@ layout: default
 <section>
   <div class="theme-2">
     <div class="content content--padding">
-      <h2 class="narrow">Every picture tells a story. Here are the families' images captured over the years full of memories.</h2>
-      {% include youtube.html id='YeWn7wzLJTk' %}
+      <h2 class="narrow">Every picture tells a story. View the photographic exhibition below.</h2>
+      {% include youtube.html id='8God9KWfspY' %}
     </div>
     <br>
   </div>
@@ -64,26 +64,11 @@ layout: default
   </div>
 
   <div class="content">
-    <p class="h2 narrow">Held at HOME on May 19th 2019, 140 family members joined us for the launch event.</p>
-
-    <div class="photos">
-      <img src="/assets/launch/launch1.jpg">
-      <img src="/assets/launch/launch2.jpg">
-      <img src="/assets/launch/launch3.jpg">
-    </div>
-    <br>
-    <p class="narrow">The event was an afternoon of performances of poetry, dance and song and a unique one-act play scripted verbatim from all the interviews bringing the lives of the mothers live to the stage for a one-off unique performance now captured on film.</p>
-    <br>
-    <div class="photos">
-      <img src="/assets/launch/launch4.jpg">
-      <img src="/assets/launch/launch5.jpg">
-      <img src="/assets/launch/launch6.jpg">
-    </div>
+    <p class="h2 narrow">Afro Solo UK, a 2 year research project into the African diaspora of Greater Manchester from 1925 - 1960. Each life story is an act of remembrance, a celebration and in some cases a reconciliation.</p>
     <br>
     <div class="narrow center">
-        <p><em>Please be advised that the play that forms part of this performance reel contains offensive racist language. Such language definitely does not reflect the attitude of NBAA, the actors nor the women they portray but are the actual words that were used to abuse the mothers.</em></p>
       <br>
-      {% include youtube.html id='wzTHyhEwmGs' %}
+      {% include youtube.html id='unVG6ivvGes' %}
     </div>
     <br>
 
