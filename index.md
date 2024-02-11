@@ -128,8 +128,6 @@ layout: default
 
     <p class="narrow">Jackie Ould, AIURR.</p>
 
-!TODO choose an image for here
-
     <p class="narrow">
       Afro Solo UK Steering Group
       Dr Hakim Adi, BA Hons., PhD
